@@ -6,6 +6,9 @@ Esta imágen es para poder usar el software desarrollado por Selenium Software S
 
 Muchos desarrolladores usan este software para simular un SMSC que hable SMPP, y así poder testear el envio y recepción de mensajes.
 
+hub.docker URL
+https://hub.docker.com/r/bitsensedev/smpp-sim/
+
 # Usos y opciones
 
 ### Puertos
